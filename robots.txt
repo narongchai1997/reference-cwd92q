@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://narongchai1997.github.io/reference-cwd92q/sitemap.xml
